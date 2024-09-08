@@ -53,4 +53,11 @@ Ajouter un titre et une description. Vous devez suivre la structure **Localisati
 ![image](https://github.com/GIF-1003/Laboratoire-Preparation-TP1/assets/57879032/6106e60e-78be-47de-a7e6-1e6080c8fb26)
 
 4. Corriger chacun des bugs trouvés et effectuer un commit et un push de la solution. Il est recommandé de faire des commits et pushs régulièrement afin de sauvegarder son travail.
+
 5. À la toute fin, ne pas oublier de faire un dernier commit et push du code final corrigé.
+
+6. Finalement, ajouter 2 captures d'écrans dans la Pull Request "Feedback" qui montre le résultat de la compilation et de l'exécution du programme une fois les bugs corrigés.
+   ![{CC5D2B8C-1EC5-4AC1-84CF-01740B574316}](https://github.com/user-attachments/assets/8c85448c-d7ce-4520-b5cd-e08d7f21d7a4)
+
+   Appuyer sur Comment.
+
