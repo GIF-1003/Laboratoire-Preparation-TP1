@@ -56,7 +56,7 @@ Ajouter un titre et une description. Vous devez suivre la structure **Localisati
 
 5. À la toute fin, ne pas oublier de faire un dernier commit et push du code final corrigé.
 
-6. Finalement, ajouter 2 captures d'écrans dans la Pull Request "Feedback" qui montre le résultat de la compilation et de l'exécution du programme une fois les bugs corrigés.
+6. Finalement, ajouter 2 captures d'écrans dans la Demande de révision (Pull Request) "Feedback" qui montre le résultat de la compilation et de l'exécution du programme une fois les bugs corrigés.
    ![{CC5D2B8C-1EC5-4AC1-84CF-01740B574316}](https://github.com/user-attachments/assets/8c85448c-d7ce-4520-b5cd-e08d7f21d7a4)
 
    Appuyer sur Comment.
