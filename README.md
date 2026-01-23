@@ -37,13 +37,13 @@ Vous êtes maintenant prêt à débuter le laboratoire.
 
 
 ## Démarche d'investigation avec issues
-But: Investiguer afin de corriger un programme. Vous devez alors décrire et illustrer toute la démarche que vous aurez adoptée pour atteindre cet objectif, ceci en utilisant les "issues" de GitHub. Il s’agit d’être complet, mais concis. Attention, il s'agit ici de valider une démarche d'investigation. Les justifications par la preuve des outils utilisés pour localiser puis corriger les erreurs sont plus importantes que les corrections du code en tant que tel. Vous devez documenter les bugs à l'aide d'"issues" pour ensuite en faire la correction.
+But: Investiguer afin de corriger un programme. Vous devez alors décrire et illustrer toute la démarche que vous aurez adoptée pour atteindre cet objectif, ceci en utilisant les "issues" de GitHub. Il s'agit d'être complet, mais concis. Attention, il s'agit ici de valider une démarche d'investigation. Les justifications par la preuve des outils utilisés pour localiser puis corriger les erreurs sont plus importantes que les corrections du code en tant que tel. Vous devez documenter les bugs à l'aide d'"issues" pour ensuite en faire la correction.
 
 Suivre les étapes suivantes:
-1. Examiner le programme et écrire dans le fichier PROGRAMME.md quel est, à la lueur d’une première observation du code, le problème qu’est censé résoudre le programme.
+1. Examiner le programme et écrire dans le fichier PROGRAMME.md quel est, à la lueur d'une première observation du code, le problème qu'est censé résoudre le programme.
 2. Lancer la compilation du programme principal.
-3. Documenter dans des issues tous les problèmes. On peut retrouver tous les types d'erreurs (erreur de syntaxe, mise en garde à corriger, mauvaise pratique, erreur d’édition de lien, erreur de logique (erreur à l’exécution) )
-Les issues doivent être bien documentées pour chaque erreur identifiée, afin de justifier par des preuves comment vous l’avez localisée (copies d’écran, commentaires d’explication des messages d’erreur, etc.). Voir les exemples d'issues documentées fournies. On demande une issue par bug trouvé.
+3. Documenter dans des issues tous les problèmes. On peut retrouver tous les types d'erreurs (erreur de syntaxe, mise en garde à corriger, mauvaise pratique, erreur d'édition de lien, erreur de logique (erreur à l'exécution) )
+Les issues doivent être bien documentées pour chaque erreur identifiée, afin de justifier par des preuves comment vous l'avez localisée (copies d'écran, commentaires d'explication des messages d'erreur, etc.). Voir les exemples d'issues documentées fournies. On demande une issue par bug trouvé.
 Dans la section "Issues", cliquer sur "New issue":
 
 ![image](https://github.com/GIF-1003/Laboratoire-Preparation-TP1/assets/57879032/1c496d89-4fc5-498d-98e6-01dc33817b4a)

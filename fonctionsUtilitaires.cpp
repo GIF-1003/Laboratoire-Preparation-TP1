@@ -10,12 +10,12 @@ using namespace std;
 
 void bug_1()
 {
-    int age = 60;
+    int age{60};
 
     if (age >= 65);
-        cout << "L'age est superieur ou egal a 65" << endl;
+        cout << "L'âge est supérieur ou égal à 65.\n";
     else
-        cout << "L'age est inferieur a 65" << endl;
+        cout << "L'âge est inférieur à 65.\n";
 }
 
 void bug_2()
@@ -23,33 +23,33 @@ void bug_2()
     int entier1; // déclarations
     int entier2;
 
-    cout << "Entrer un premier entier" << endl; // affichage
+    cout << "Entrer un premier entier:\n"; // affichage
     cin >> entier1; // lire un entier
-    cout << "Entrer un second entier" << endl; // affichage
+    cout << "Entrer un second entier:\n"; // affichage
     cin >> entier2; // lire un entier
     somme = entier1 + entier2; // assignation de somme
-    cout << "la Somme est " << somme << endl; // afficher somme
+    cout << "La somme est " << somme << ".\n"; // afficher somme
 }
 
 void bug_3()
 {
-    int total = 0;
+    int total{0};
 
-    for (int x = 0; x <= 10; x++)
+    for (int x{0}; x <= 10; ++x)
         if (x % 2 == 0)
         {
-            cout << x << " pair" << endl;
+            cout << x << " pair\n";
         }
     total += x;
 
-    cout << "Le programme termine et le total est " << total << endl;
+    cout << "Le programme termine et le total est " << total << ".\n";
 }
 
 void bug_4()
 {
     int total; // somme des notes
-    int notesSaisies = 0; // compteur de notes saisies
-    const int NOMBRE_NOTES_A_SAISIR = 5;
+    int notesSaisies{0}; // compteur de notes saisies
+    const int NOMBRE_NOTES_A_SAISIR{5};
     int maximum;
 
     while (notesSaisies < NOMBRE_NOTES_A_SAISIR)
@@ -62,16 +62,16 @@ void bug_4()
     }
     int moyenne; // moyenne des notes
     moyenne = total / NOMBRE_NOTES_A_SAISIR;
-    cout << "La moyenne de la classe est " << moyenne << endl;
+    cout << "La moyenne de la classe est " << moyenne << ".\n";
 }
 
 void bug_5()
 {
-    int y = 1;
+    int y{1};
 
-    while ( y > 0 ) 
+    while (y > 0)
     {
-        cout << y << endl;
+        cout << y << "\n";
         ++y;
     }
 }
